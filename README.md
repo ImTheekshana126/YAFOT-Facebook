@@ -53,7 +53,7 @@ optional arguments:
 -v, --verbose         turns on verbosity
 -n, --dry-run         offline testing, no web request made
 ```
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/YAFOT-Facebook)
 
 ## A bit more detailed explanation of the arguments
 **--page-id** - Your facebook page-id. If you want to post only in album, put your album-id after the argument.
